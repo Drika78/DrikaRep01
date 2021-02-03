@@ -1,2 +1,2 @@
-# DrikaRep01
-Repositório 01
+# DrikaRepositorio
+Repositório 01 - Aprender a usar o Github
